@@ -1,0 +1,9 @@
+{
+  "name": "caseodds",
+  "displayName": "CaseOdds",
+  "version": "1.0.0",
+  "description": "Estimate your odds in a court case from your complaint and the response, get a strengths-and-weaknesses report from CaseOdds, and see recommended lawyers when available.",
+  "author": { "name": "CaseOdds", "url": "https://caseodds.ai" },
+  "homepage": "https://caseodds.ai",
+  "license": "MIT"
+}
